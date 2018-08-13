@@ -51,6 +51,7 @@ anything
 appear
 apply
 approach
+are
 area
 argue
 arm
@@ -91,6 +92,7 @@ begin
 behavior
 behind
 believe
+belong
 benefit
 best
 better
